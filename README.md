@@ -31,7 +31,7 @@ let continents = {
 ```
 
 ## Interwebs 👨🏾‍💻
-I'm `@ashtynabell` across most platforms. Except for AngelList; I'm just `@ashtyn` there. 🙄
+I'm `@ashtynabell` across most platforms, but sometimes `@ashtyn`. There's no rhyme or reason, just plain old inconsistency. 🙄
 * Twitter: https://twitter.com/ashtynabell
 * IG: https://www.instagram.com/ashtynabell
 * LinkedIn: https://www.linkedin.com/in/ashtynabell
