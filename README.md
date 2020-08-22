@@ -8,7 +8,11 @@ Maru naam Ashtyn che. I mostly write in [Swift](https://github.com/topics/swift)
 
 
 ## ✈️ C:\the_world™ 🌍
-Explore cities. Experience culture. When I'm in the States, you'll find me between Chicago and Oakland. When outside the States, ain't no tellin'.
+Explore cities. Experience culture.<br/>
+
+I strive to create scalable impact with a foundational belief held since I was 16 years old: cultural exposure makes us better people. We become more empathetic and more humane, which is the groundwork to make our world an exceptional place. Every adventure is an opportunity to increase our exposure to the communities and cultures that form our society. So remain open to new experiences: eat a new cuisine, walk in a different neighborhood, see a landmark that's 7,403 miles away. Our world benefits.<br/>
+
+When in the States, you'll find me between Chicago and Oakland. When outside the States, ain't no tellin'.
 
 ```
 let cities = {
