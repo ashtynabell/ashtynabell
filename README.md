@@ -4,7 +4,7 @@
 ☝🏾Shoutout to [Steve Wallah](https://unsplash.com/@stevewallah) for capturing and sharing this beautiful photo. It inspires me every day.
 
 ## What up, doe. 🤜🏾💥🤛🏾
-Maru naam Ashtyn che. I mostly write in [Swift](https://github.com/topics/swift) and [JavaScript](https://github.com/topics/javascript) while handling data in NoSQL databases, preferably [MongoDB](https://github.com/topics/mongodb). I build web + iOS products for [Greenbook](https://github.com/greenbook) and manage web & iOS products for [Rocketmiles](https://github.com/rocketmiles). Small talk with me for hours about `cultural exposure`, `hip hop`, `agricultural logistics with UAVs`, and `economic mobility`.
+Maru naam Ashtyn che. I mostly write in [Swift](https://github.com/topics/swift) and [JavaScript](https://github.com/topics/javascript) while handling data in NoSQL databases, preferably [MongoDB](https://github.com/topics/mongodb). I build web + iOS products for [Greenbook](https://github.com/greenbook) and manage web, Android, & iOS products for [Rocketmiles](https://github.com/rocketmiles). Small talk with me for hours about `cultural exposure`, `hip hop`, `agricultural logistics with UAVs`, and `economic mobility`.
 
 
 ## ✈️ C:\the_world™ 🌍
