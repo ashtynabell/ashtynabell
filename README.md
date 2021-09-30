@@ -6,7 +6,7 @@
 ## What up, doe. 🤜🏾💥🤛🏾
 Maru naam Ashtyn che, but you can call me アシュティン. My momma taught me how to use the command line in '96 and, since then, I've been coloring outside the lines.<br/>
 
-I mostly write in [Swift](https://github.com/topics/swift) and [JavaScript](https://github.com/topics/javascript) while handling data in NoSQL databases, preferably [MongoDB](https://github.com/topics/mongodb). I build web + iOS products for [Greenbook](https://github.com/greenbook) and advise startups on Product & Growth. Small talk with me for hours about `cultural exposure`, `hip hop`, `agricultural logistics with UAVs`, and `economic mobility`.
+I mostly write in [Swift](https://github.com/topics/swift) and [JavaScript](https://github.com/topics/javascript) while handling data in NoSQL databases, preferably [MongoDB](https://github.com/topics/mongodb). I build web + iOS products for [Greenbook](https://github.com/greenbook) and advise startups on Product & Growth. Small talk with me for hours about `cultural exposure`, `economic mobility`, `hip hop`, and `Web3`.
 
 
 ## ✈️ C:\the_world™ 🌍
