@@ -1,4 +1,4 @@
-# アシュティン ✊🏾❤️🙏🏾 @ashtynabell
+# アシュティン ✊🏾❤️🙏🏾 ashtyn.eth
 ![A Black boy standing on Ngong Hills during foggy day in Nairobi, Kenya.](https://images.unsplash.com/photo-1507705937278-6f8ca6feb33c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=788&q=80)
 
 ☝🏾Shoutout to [Steve Wallah](https://unsplash.com/@stevewallah) for capturing and sharing this beautiful photo. It inspires me every day.
