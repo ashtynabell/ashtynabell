@@ -37,8 +37,14 @@ let continents = {
 ```
 
 ## Interwebs 👨🏾‍💻
-I am `@ashtynabell` across all platforms, but only fairly active on these:
+I am mostly `@ashtynabell` in Web2:
 * Twitter: https://twitter.com/ashtynabell
 * IG: https://www.instagram.com/ashtynabell
 * LinkedIn: https://www.linkedin.com/in/ashtynabell
 * AngelList: https://angel.co/u/ashtynabell
+
+I am mainly `@ashtyn` across Web3:
+* My ENS: `ashtyn.eth`
+* OpenSea: https://opensea.io/ashtyn
+* Foundation: https://foundation.app/@ashtyn
+* Rarible: https://rarible.com/ashtyn
